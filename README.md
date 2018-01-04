@@ -6,3 +6,6 @@ This repository is dedicated to a state of the art of Machine-Learning for neuro
 
 This repository includes a summary, a presentation support and two Jupyter Notebooks aiming to illustrates ML techniques.
 
+* Authors: L. SALHI, C. TRASSOUDAINE
+* License: MIT
+
